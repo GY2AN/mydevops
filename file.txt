@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 Hello Pradeep Sir
 My change from new mybranch 
+my-data'
+Second data
+Third commit
+Fourth Commit
+Fifth comit
+Six Commit
+Seventh commit
+Eight commit
+Nine commit from remote
+
